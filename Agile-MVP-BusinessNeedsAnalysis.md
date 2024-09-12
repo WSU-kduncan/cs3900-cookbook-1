@@ -1,8 +1,8 @@
 # MVP \- Analyze the Business Needs
 
-Team Name:  
-Team Members:  
-Project Name:
+Team Name: Team Cook Book
+Team Members: Jordan Henman, 
+Project Name: Cook Book
 
 ## Problem Statement
 
