@@ -22,7 +22,7 @@ The overall vision we want to acheve is a social media inspired online cook book
 
 > Outline the key objectives of the MVP.
 
-
+Our key objectives are to get more people in the kitchen by providing a user friendly and simple cook book expierence, and to allow expierenced cooks to express themselves with creative recipies. 
 
 *** 
 
