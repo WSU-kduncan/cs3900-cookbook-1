@@ -35,7 +35,7 @@
 ## User Stories
 
 > Break down each key feature into user stories.
-- As a user, I want to be able to craete and publish my own recipes to share them with the community.
+- As a user, I want to be able to create and publish my own recipes to share them with the community.
 - As a user, I want to be save recipes into folders for future use and organization.
 - As a user, I want to see a personalized dashboard from the recipes that I've liked and/or saved.
 - As a user, I want to find recipes from specific tags or keywords.
