@@ -1,9 +1,8 @@
 # MVP \- Define Core Features
 
-Team Name:  
-Your Name:  
-Team Members:  
-Project Name:
+Team Name: Team Cook Book 
+Team Members: Jordan Henman, 
+Project Name: Cook Book
 
 ## Data Management
 
