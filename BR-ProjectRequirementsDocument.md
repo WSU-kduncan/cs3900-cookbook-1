@@ -1,7 +1,7 @@
 # Project Requirements Document
 
-## [Project Name]
-- Cook Book
+## [Cook Book]
+
 ### Context
 The Cook Book Website/App is designed for users who want to explore, share, and discover new or classic recipes. The primary goal is to have an engaging platform where users can create, organize, and share their creations while interacting with a community with other users. This has social media features and tools designed for recipe management to encourage creativity, learning, and socializing about food. This is a safe platform and will be an enjoyable space for all ages as it's user-friendly and has family-friendly content.
 ***
