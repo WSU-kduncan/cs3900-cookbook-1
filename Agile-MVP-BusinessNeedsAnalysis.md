@@ -38,6 +38,6 @@ Our specifc audience has a wide range, we aim to cater towards new and inexpiere
 
 > Provide a high-level overview of the solution your MVP will offer.
 
-
+Our MVP will offer an app designed to showcase recipies created by the users of the app. Users have the ability to rate, comment, and like posts from other users. Recipies will contain the steps, ingredients, and amount of ingredients.
 
 ***
