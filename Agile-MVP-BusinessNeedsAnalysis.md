@@ -2,7 +2,7 @@
 
 Team Name: Team Cook Book
 
-Team Members: Jordan Henman, 
+Team Members: Jordan Henman, Geraldine Jaca
 
 Project Name: Cook Book
 
