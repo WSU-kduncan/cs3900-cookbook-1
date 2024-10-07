@@ -16,6 +16,10 @@ User Flow:
   - 3: Goal achieved:
        - Once the user accomplishes their task on the application they will logout or exit the application.
 
+  Wireframe:
+  - Layout:
+      -
+
 **Search:**
 
 **Create**
