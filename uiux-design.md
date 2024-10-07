@@ -1,5 +1,5 @@
 
-Search:
+**Search:**
 
 ![cookbookcreateflow](cookbookcreateflow.png)
 
@@ -16,8 +16,27 @@ User Flow:
      - If no, show error message and ask user to enter valid content. Ex: "Title required", "Tags required".
  - 3: Post-Submission:
    - After creating post, it will refresh to the user's page where it lists their existing posts and will add the newly created recipe.
+  
+Wireframe:
+- Layout:
+  - Title: Placed at the top-left corner with placeholder (TITLE)
+  - Date Create: Placed at the top-right corner with placeholder (Date Created)
+  - Upload: Under title but above ingredients and recipe (Image of Dish)
+  - Ingredients: Under Image
+  - Recipe: Under Ingredients
+  - Tags: Under Recipe but above the 'Create' button
 
-Update:
+![cookbookcreate](cookbookcreate.png)
+
+  - Post-Submission: Once created, it'll send users to their Posts and have a marker at the right that says 'Post Successfully Created'
+
+![cookbookcreatesuccessful](cookbookcreatesuccessful.png)
+      - If there was no post created, it will show an Error message.
+
+![cookbookcreateerror](cookbookcreateerror.png)
+
+
+**Update:**
 
 ![cookbookupdateflow](cookbookupdateflow.png)
 
@@ -34,3 +53,18 @@ User Flow:
       - If no, error message will be triggered if there were no changes made and ask user to make changes. It will have a button to let users get out.
   - 3: Post-Update Navigation:
     - After, it will refresh page with newly inputted content in the post.
+
+Wireframe:
+- Layout:
+  - In Posts (User's Posts), it'll have a 'Edit' button at the top-right.
+
+![cookbookeditpost](cookbookeditpost.png)
+  - Once clicked, the layout will be the already created post but modifiable and a 'UPDATE!' button at the bottom instead of 'Create!'
+
+![cookbookeditupdate](cookbookeditupdate.png)
+  - Post-Update: If successful, it'll show the user back to their Posts with a marker on the right that says the update was successful
+
+![cookbookeditsuccessful](cookbookeditsuccessful.png)
+    - If not, it'll give Error Message that tells them it's invalid and to go back.
+
+![cookbookediterror](cookbookediterror.png)
