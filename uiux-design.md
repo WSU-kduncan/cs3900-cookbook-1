@@ -1,8 +1,8 @@
 
 Search:
-- Goal:
+Goal:
         - This will allow users to create a new entity or a post in the application.
-- User Flow:
+User Flow:
         - 1: 'Create' Button:
                 - Create Button will be clearly displayed to simplify it for users.
                 - User clicks the 'Create' button to show the 'Create' page for the users to begin inputting content. After, click 'Create' when done.
@@ -15,9 +15,9 @@ Search:
                 - After creating post, it will refresh to the user's page where it lists their existing posts and will add the newly created recipe.
 
 Update:
-- Goal:
+Goal:
         - This allows user to update the existing content and make necessary changes.
-- User Flow:
+User Flow:
         - 1: 'Update' Button:
                 - The user navigates to an existing post or a previously created recipe and there will be an 'Edit' option.
                 - Clicking the button will open the existing content but now in modifiable mode so user can input changes then click 'Save' after.
