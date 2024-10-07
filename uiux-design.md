@@ -18,7 +18,10 @@ User Flow:
 
   Wireframe:
   - Layout:
-      -
+      - The title of the page is located in the top middle indicating that these are the top rated posts for today.
+      - The login button is located top right of the search bar so it is easy to access the login page.
+      - The search bar is located on the top right so user's can easily search for recipes upon logging into the site.
+      - The sidebar contains links to your profile, if you are not signed in it will take you to a login page, recently posted recipes, recipe ratings which is the highest rated of all time, and info which would display our contact information to get ahold of us.
 
 ![pic](./WireMain.PNG)
 
