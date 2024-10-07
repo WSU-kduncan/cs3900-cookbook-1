@@ -1,3 +1,15 @@
+**Landing / Main application page**
+
+- Goal:
+- This will be the main homepage of our app.
+
+User Flow:
+  - 1: User's purpose:
+   - The first part of the user flow decides what the user is aiming to do on our application.
+   - They can scroll through new and top recipe posts.
+   - Post a new recipe.
+   - Create an account or login if they haven't already.
+   - Or search for a desired recipe.
 
 **Search:**
 
@@ -36,6 +48,7 @@ Wireframe:
 
 ![cookbookcreateerror](cookbookcreateerror.png)
 
+**Create**
 
 **Update:**
 
