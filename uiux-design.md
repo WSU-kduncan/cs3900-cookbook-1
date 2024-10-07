@@ -25,7 +25,7 @@ User Flow:
 
 ![pic](./WireMain.PNG)
 
-**Search:**
+**Search**
 
 **Create**
 
