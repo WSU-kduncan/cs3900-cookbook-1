@@ -7,10 +7,14 @@
 User Flow:
   - 1: User's purpose:
      - The first part of the user flow decides what the user is aiming to do on our application.
-     - They can scroll through new and top recipe posts.
-     - Post a new recipe.
-     - Create an account or login if they haven't already.
-     - Or search for a desired recipe.
+     - While logged out users can search for and scroll through the featured homepage recipes.
+     - If the user decides to login they have more options to choose from.
+  - 2: User login:
+      - User's are able to login or create an account.
+      - Once they are on their account options such as posting recipies are available.
+      - User's can now also favorite, comment on, and like other's posts.
+  - 3: Goal achieved:
+       - Once the user accomplishes their task on the application they will logout or exit the application.
 
 **Search:**
 
