@@ -15,7 +15,7 @@ User Flow:
    - After creating post, it will refresh to the user's page where it lists their existing posts and will add the newly created recipe.
 
 Update:
-Goal:
+- Goal:
 - This allows user to update the existing content and make necessary changes.
 User Flow:
   - 1: 'Update' Button:
