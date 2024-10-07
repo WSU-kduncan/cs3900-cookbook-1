@@ -18,6 +18,8 @@ User Flow:
 
 **Search:**
 
+**Create**
+
 ![cookbookcreateflow](cookbookcreateflow.png)
 
 - Goal:
@@ -53,7 +55,7 @@ Wireframe:
 
 ![cookbookcreateerror](cookbookcreateerror.png)
 
-**Create**
+
 
 **Update:**
 
