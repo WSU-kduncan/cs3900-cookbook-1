@@ -27,6 +27,20 @@ User Flow:
 
 **Search**
 
+![pic](./SearchPage.PNG)
+
+- Goal:
+- This will allow users to search for recipes on our application.
+User Flow:
+  - 1: 
+
+
+  Wireframe:
+  - Layout:
+
+
+![pic](./WireSearch.PNG)
+
 **Create**
 
 ![cookbookcreateflow](cookbookcreateflow.png)
