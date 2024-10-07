@@ -31,7 +31,8 @@ Wireframe:
   - Post-Submission: Once created, it'll send users to their Posts and have a marker at the right that says 'Post Successfully Created'
 
 ![cookbookcreatesuccessful](cookbookcreatesuccessful.png)
-      - If there was no post created, it will show an Error message.
+
+  - If there was no post created, it will show an Error message.
 
 ![cookbookcreateerror](cookbookcreateerror.png)
 
@@ -59,12 +60,15 @@ Wireframe:
   - In Posts (User's Posts), it'll have a 'Edit' button at the top-right.
 
 ![cookbookeditpost](cookbookeditpost.png)
+
   - Once clicked, the layout will be the already created post but modifiable and a 'UPDATE!' button at the bottom instead of 'Create!'
 
 ![cookbookeditupdate](cookbookeditupdate.png)
+
   - Post-Update: If successful, it'll show the user back to their Posts with a marker on the right that says the update was successful
 
 ![cookbookeditsuccessful](cookbookeditsuccessful.png)
-    - If not, it'll give Error Message that tells them it's invalid and to go back.
+
+  - If not, it'll give Error Message that tells them it's invalid and to go back.
 
 ![cookbookediterror](cookbookediterror.png)
