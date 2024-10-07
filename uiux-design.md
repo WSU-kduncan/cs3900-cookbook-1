@@ -1,5 +1,6 @@
 
 Search:
+![cookbookcreateflow](cookbookcreateflow.png)
 - Goal:
 - This will allow users to create a new entity or a post in the application.
 User Flow:
@@ -15,6 +16,7 @@ User Flow:
    - After creating post, it will refresh to the user's page where it lists their existing posts and will add the newly created recipe.
 
 Update:
+![cookbookupdateflow](cookbookupdateflow.png)
 - Goal:
 - This allows user to update the existing content and make necessary changes.
 User Flow:
