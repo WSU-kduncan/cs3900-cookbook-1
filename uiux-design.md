@@ -32,12 +32,22 @@ User Flow:
 - Goal:
 - This will allow users to search for recipes on our application.
 User Flow:
-  - 1: 
+  - 1: User begins search:
+        - The user decides on searching for either a recipe or for another user.
+  - 2: Search perimeters:
+      - The user decides on what perimeters to search by.
+      - If searching for another user then they must search the their username.
+      - If searching for a recipe then the user must search by recipe name, poster's name, or by rating.
+  - 3: Search results:
+      - If the results of the search are successfull then the user can finish searching.
+      - If the results are not successful then the user will need to keep searching.
 
 
   Wireframe:
   - Layout:
-
+      - The basic layout of the main page stays with the submenu bar still on the right side.
+      - The search bar is now in the middle top of the screen since the user is now searching.
+      - The results appear below the search bar.
 
 ![pic](./WireSearch.PNG)
 
