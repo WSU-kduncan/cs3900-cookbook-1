@@ -1,5 +1,7 @@
 **Landing / Main application page**
 
+![pic](./MainPage.PNG)
+
 - Goal:
 - This will be the main homepage of our app.
 
