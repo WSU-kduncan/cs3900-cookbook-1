@@ -31,10 +31,18 @@ The Cook Book Website/App is designed for users who want to explore, share, and 
 ***
 
 ### Requirements
+
+Functional Requirements:
 - Users have simple user account management.
 - Users are able to browse and filter recipes by ingredients, rating, and cook time.
 - Users can favorite recipes.
 - Nutritional information is displayed for recipes.
+
+Non-Functional Requirements:
+- The application must have an intuitive user interface that is easy to navigate.
+- The application should load recipes in under 2 seconds under normal conditions.
+- User data must be protected through encryption and secure authentication methods.
+- The application must be compatible with major web browsers (Chrome, Firefox, Safari) and mobile devices (iOS, Android).
 ***
 
 ### Scope
