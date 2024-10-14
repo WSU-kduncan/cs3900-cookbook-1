@@ -31,17 +31,39 @@ The Cook Book Website/App is designed for users who want to explore, share, and 
 ***
 
 ### Requirements
-
+- Users have simple user account management.
+- Users are able to browse and filter recipes by ingredients, rating, and cook time.
+- Users can favorite recipes.
+- Nutritional information is displayed for recipes.
 ***
 
 ### Scope
+Included:
 
+- Development of a web-based cookbook application with user account features, recipe management, meal planning, and shopping list functionality.
+- User interfaces for both desktop and mobile users.
+- Basic nutritional information display.
+  
+Excluded:
+
+- Integration with external grocery delivery services.
+- Advanced social features such as user messaging or community forums.
+- Support for multiple languages beyond the initial launch.
 ***
 
 ### Performance
+Response Times:
+- All pages must load within 2 seconds.
+- Recipe searches should return results in under 1 second.
 
+Load Capacity:
+- The application should handle up to 10,000 simultaneous users.
+- The database should support storage of up to 100,000 recipes with efficient retrieval.
 ***
 
 ### Open Questions
-
+- How will users provide feedback on recipes or the application itself? Should there be a dedicated feedback form?
+- Should the application provide suggestions for ingredient substitutions if users lack certain items?
+- Will users need access to recipes offline, and if so, what features should be available in offline mode?
+- What level of user data tracking is necessary for the application, and how will user privacy be ensured?
 ***
