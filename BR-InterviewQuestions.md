@@ -4,9 +4,9 @@ Remember each team member needs to commit 3 questions & an individual interview.
 
 Questions:
 
-1. What information or features do you expect to see on the main page of a cookbook app when you first open it?
-2. When searching for recipes, what keywords or phrases do you typically use?
-3. What steps do you typically follow when creating a new recipe? What information is essential for you to include?
+1. What challenges do you currently face when using similar applications?
+2. Can you describe a recent experience where an application did not meet your expectations?
+3. What features would you consider essential for improving your experience with such applications?
 
 - Individual that was interviewed: My mom :))
 - How often do you try new recipes and what influences you to try them?
