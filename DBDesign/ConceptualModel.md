@@ -5,19 +5,24 @@
 Key Entities
 
 Users:
-        The heart of the application. Users can create profiles, share their culinary journeys, and, perhaps, don a chef's hat in the virtual world. Each user has attributes like username, password, profile picture, bio, and favorite cuisines. Think of them as culinary explorers, each with a unique palate.
+
+The heart of the application. Users can create profiles, share their culinary journeys, and, perhaps, don a chef's hat in the virtual world. Each user has attributes like username, password, profile picture, bio, and favorite cuisines. Think of them as culinary explorers, each with a unique palate.
 
 Recipes:
-        The pièce de résistance! Each recipe is a carefully crafted masterpiece, with attributes such as title, ingredients, cooking instructions, preparation time, and cuisine type. Users can post their culinary creations, presenting them like a Michelin-starred dish on a polished plate—complete with a tantalizing image.
+
+The pièce de résistance! Each recipe is a carefully crafted masterpiece, with attributes such as title, ingredients, cooking instructions, preparation time, and cuisine type. Users can post their culinary creations, presenting them like a Michelin-starred dish on a polished plate—complete with a tantalizing image.
 
 Likes:
-        A digital thumbs-up! This entity captures the affection users have for recipes. Each like connects a user to a specific recipe, showcasing which culinary delights have captured their hearts (or stomachs).
+
+A digital thumbs-up! This entity captures the affection users have for recipes. Each like connects a user to a specific recipe, showcasing which culinary delights have captured their hearts (or stomachs).
 
 Favorites:
-        For those recipes that make users swoon, the favorites entity allows users to bookmark their cherished dishes. It’s like a culinary hall of fame, where users can revisit their top picks at any time.
+
+For those recipes that make users swoon, the favorites entity allows users to bookmark their cherished dishes. It’s like a culinary hall of fame, where users can revisit their top picks at any time.
 
 Comments:
-        The conversational spice of the application. Users can leave comments on recipes, sharing tips, praises, or delightful puns. Each comment is associated with both a user and a recipe, fostering an engaging dialogue akin to a lively kitchen chatter.
+
+The conversational spice of the application. Users can leave comments on recipes, sharing tips, praises, or delightful puns. Each comment is associated with both a user and a recipe, fostering an engaging dialogue akin to a lively kitchen chatter.
 
 Relationships Between Entities
 
