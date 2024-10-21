@@ -1,4 +1,4 @@
-[!Conceptual model picture](DBDesign/ConceptualModel.PNG)
+![Conceptual model picture](DBDesign/ConceptualModel.PNG)
 
 **Description:**
 
