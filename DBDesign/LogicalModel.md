@@ -19,4 +19,5 @@ Favorite:
 Similar to Likes, but indicates a stronger interest in a recipe. Each favorite has a unique identifier and links users to recipes they have marked as favorites.
 
 Comment: 
+
 Allows users to leave feedback or thoughts on recipes. Each comment includes comment_id, user_id, recipe_id, and comment_text, providing a way to interact and engage with the content.
