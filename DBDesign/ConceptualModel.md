@@ -1,4 +1,4 @@
-(Conceptual model picture)[!./]
+(Conceptual model picture)[!./ConceptualModel.PNG]
 
 **Description:**
 
