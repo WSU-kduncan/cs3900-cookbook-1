@@ -26,12 +26,22 @@ The conversational spice of the application. Users can leave comments on recipes
 
 Relationships Between Entities
 
-Users and Recipes: A user can create multiple recipes, but each recipe is authored by a single user. This one-to-many relationship allows the community to witness the evolution of a user's culinary skills over time.
+Users and Recipes: 
 
-Users and Likes: A user can like multiple recipes, and a recipe can be liked by many users. This many-to-many relationship creates a web of culinary popularity, where recipes can soar to fame through the adoration of users.
+A user can create multiple recipes, but each recipe is authored by a single user. This one-to-many relationship allows the community to witness the evolution of a user's culinary skills over time.
 
-Users and Favorites: Similar to likes, a user can favorite multiple recipes, and recipes can be favored by multiple users. This relationship ensures that the love for recipes transcends mere likes, solidifying their place in a user’s heart (and virtual kitchen).
+Users and Likes: 
 
-Users and Comments: Each comment is crafted by a user on a specific recipe, establishing a one-to-many relationship. This setup allows for a dynamic exchange of ideas and tips, transforming the comment section into a buzzing hive of culinary creativity.
+A user can like multiple recipes, and a recipe can be liked by many users. This many-to-many relationship creates a web of culinary popularity, where recipes can soar to fame through the adoration of users.
 
-Recipes and Comments: Each recipe can have numerous comments, enhancing the community experience and allowing for rich discussions about the cooking process, ingredients, or just the joy of eating.
+Users and Favorites: 
+
+Similar to likes, a user can favorite multiple recipes, and recipes can be favored by multiple users. This relationship ensures that the love for recipes transcends mere likes, solidifying their place in a user’s heart (and virtual kitchen).
+
+Users and Comments: 
+
+Each comment is crafted by a user on a specific recipe, establishing a one-to-many relationship. This setup allows for a dynamic exchange of ideas and tips, transforming the comment section into a buzzing hive of culinary creativity.
+
+Recipes and Comments: 
+
+Each recipe can have numerous comments, enhancing the community experience and allowing for rich discussions about the cooking process, ingredients, or just the joy of eating.
