@@ -1,7 +1,5 @@
 # View Recipes (View All recipes)
-SELECT r.recipeID, r.title, r.ingredients, r.instructions, u.userName
-FROM Recipe r
-JOIN User u ON r.userID = u.userID;
+SELECT * FROM Recipe
 
 # Track Occurances (How many times recipes are liked)
 SELECT r.recipeID, r.title, COUNT(l.likeID) as likeCount
