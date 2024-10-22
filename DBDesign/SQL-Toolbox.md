@@ -2,10 +2,10 @@
 SELECT * FROM Recipe
 
 # Track Occurances (How many times recipes are liked)
-SELECT r.recipeID, r.title, COUNT(l.likeID) as likeCount
-FROM Recipe r
-LEFT JOIN Like l ON r.recipeID = l.recipeID
-GROUP BY r.recipeID, r.title;
+    SELECT r.recipeID, r.title, COUNT(l.likeID) as likeCount
+    FROM Recipe r
+    LEFT JOIN Like l ON r.recipeID = l.recipeID
+    GROUP BY r.recipeID, r.title;
 
 # Query Count (Amounts of comments in recipe)
 SELECT r.recipeID, r.title, COUNT(c.commentID) AS commentCount
