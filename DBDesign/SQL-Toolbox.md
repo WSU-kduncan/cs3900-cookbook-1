@@ -1,5 +1,5 @@
 # View Recipes (View All recipes)
-SELECT * FROM Recipe
+    SELECT * FROM Recipe
 
 # Track Occurances (How many times recipes are liked)
     SELECT r.recipeID, r.title, COUNT(l.likeID) as likeCount
